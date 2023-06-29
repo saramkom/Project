@@ -1,0 +1,32 @@
+body {Background-color: #F0F8FF;
+	font-family: noto sans;
+}
+
+h1 {background-color: lightblue;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+h2 {color: blue;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+}
+
+#Water-Bottle {
+	width: 300px;
+	height: auto;
+	padding: 15px;
+}
+
+
+
+
+.content {
+	padding: 10px;
+}
